@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942606579452",
+    "project_id": "fir-flutter-d5b97",
+    "storage_bucket": "fir-flutter-d5b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942606579452:android:e80fb0ef4ca4c34289c979",
+        "android_client_info": {
+          "package_name": "com.gabrielaAOV.landingpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBjUuJZ-t9u3Zumqzbhk5Q3XiYzbhhec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
